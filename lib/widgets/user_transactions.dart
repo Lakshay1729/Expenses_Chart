@@ -25,11 +25,11 @@ class _UserTransactionsState extends State<UserTransactions> {
 
   ];
 
-  void _addNewTransaction(String title,double amount) {
+  void _addNewTransaction(String title,double amount,DateTime date) {
     final newTx = Transaction(
         title: title,
         amount: amount,
-        date: DateTime.now(),
+        date:date ,
         id: DateTime.now().toString());
     setState(() {
       usertransactions.add(newTx);
