@@ -2,13 +2,13 @@
 
 A basic Flutter application.
 
-**Objective-
+**Objective -**
 
 To keep track of your expenses on weekly basis.
 
--Features:
- - ChartView to visualize weekly expenses.
- - Form to add your daily expenses with a datepicker
+Features:
+ -ChartView to visualize weekly expenses.
+ -Form to add your daily expenses with a datepicker
  
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
