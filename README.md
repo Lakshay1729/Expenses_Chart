@@ -1,13 +1,16 @@
 # expenses_chart
 
-A new Flutter application.
+A basic Flutter application.
 
-## Getting Started
+**Objective -**
 
-This project is a starting point for a Flutter application.
+To keep track of your expenses on weekly basis.
 
-A few resources to get you started if this is your first Flutter project:
-
+Features:<br>
+ - ChartView to visualize weekly expenses.<br>
+ - Form to add your daily expenses with a datepicker
+ 
+ Other links:
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
